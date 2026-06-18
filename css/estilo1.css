@@ -1,0 +1,38 @@
+body{
+font-family: Verdana;
+background:url('../imagen/fondo.jpeg');
+background-repeat:repeat;
+
+.cinco{
+background: yellow;
+width:5%;
+margin:20px 80px;
+padding: 10px 20px;
+border-radius: 40px;
+}
+
+.seis{
+background: yellow;
+width:5%;
+margin:20px 80px;
+padding: 10px 20px;
+border-radius: 40px;
+}
+
+.contenedor{
+background: orange;
+width: 80%;
+margin: auto;
+}
+
+header{
+height:300px;
+background-image: url("../imagen/foto.jpeg");
+background-position: center;
+background-size: cover;
+}
+
+main{
+background: almond;
+padding: 20px 30px;
+}
